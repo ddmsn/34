@@ -6,5 +6,8 @@ public class Utils {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	public int cambio(){
+		return 0;
+	}
 
 }
