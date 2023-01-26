@@ -8,6 +8,10 @@ public class Utils {
 	}
 	public int cambio(){
 		return 0;
+		
+	public int cambio2() {
+		return 1;
+	}
 	}
 
 }
