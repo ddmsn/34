@@ -12,6 +12,10 @@ public class Utils {
 	public int cambio2() {
 		return 1;
 	}
+		public int cambio44() {
+			
+		}
+	
 	}
 
 }
