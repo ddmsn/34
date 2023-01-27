@@ -17,5 +17,10 @@ public class Utils {
 		}
 	
 	}
-
+	public int cambio2() {
+		return 1;
+	}
+	public String playa() {
+		return "Montaña";
+	}
 }
